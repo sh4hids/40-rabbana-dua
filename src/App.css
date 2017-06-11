@@ -172,14 +172,30 @@ body {
     padding: 0 2em;
   }
   .Ar {
-    font-size: 1.8em;
-    line-height: 1.4;
+    font-size: 1.3em;
+    line-height: 1.2;
   }
   .Bn {
-    font-size: 0.9em;
+    font-size: 0.5em;
+    line-height: 1.5;
   }
   .playBtn {
     margin-top: 0.5em;
+    font-size: 0.5em;
+  }
+
+  .ref {
+    font-size: 0.5em;
+  }
+
+  #menuToggle {
+    top: 15px;
+    left: 15px;
+  }
+
+  #menuToggle img {
+    width: 15px;
+    height: 15px;
   }
 }
 
